@@ -1,9 +1,17 @@
 # 1978 R2D2 Replacement Parts
 
-I have fixed a few 1978 remote controlled R2D2s and I needed to 3D design and print these parts in order to replace some of the gears that broke. They seem to be commonly needed to completely fix the R2D2 units, and so I thought that I would share the designs so that other people can use them to speed up their repairing process.
+## The Backstory
 
-Note that these designs were reversed engineered by measuring the dimensions of the gears that broke with calibers. They are NOT exact designs of the actual gears that were initially used in the production of these units. While the dimensions of the gears are approximate to the initial gears, I have found that they work pretty well when printed properly with the correct material.
+It is common for some of the plastic gears in the 1978 remote controlled R2D2s to crack. In order to fix these R2 units, I replaced the cracked gears with ones I 3D designed and printed. I am sharing these designs to assist the reparing process of other R2 units.
 
-Slightly more specifically, I printed the gears on a raft, very slowly, using ABS. Printing them this way seems to make them more robust than the initial gears that were used. 
+## Something to Note
 
-I have only included the designs, which I made using Autodesk 360 Fusion, as well as the exported .stl files since the gcode that will be needed to 3D print the parts is currently printer specific.
+These designs were reversed engineered by measuring the dimensions of the broken gears with calibers and are, therefore, not identical copies of the originals. However, I have found that they work very well when printed properly and with the correct material.
+
+## 3D Printing Pointers
+
+Printing the designs very slowly on a raft with ABS seems to yield quality gears that are more robust than the originals.
+
+## Final Words
+
+The Autodesk Fusion 360 designs and the exported STL files are only included since the G-code to 3D print the parts should be adjusted to optimize the print quality with respect to your available 3D printer.
