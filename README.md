@@ -2,7 +2,7 @@
 
 ## The Backstory
 
-It is common for some of the plastic gears in the 1978 remote controlled R2D2s to crack. In order to fix these R2 units, I replaced the cracked gears with ones I 3D designed and printed. I am sharing these designs to assist the reparing process of other R2 units.
+It is common for some of the plastic gears in the 1978 remote controlled R2D2s to crack. In order to fix these R2 units, I replaced the cracked gears with ones I 3D designed and printed. I would like to share these designs to assist any potential reparing processes of other R2 units.
 
 ## Something to Note
 
